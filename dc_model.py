@@ -163,6 +163,7 @@ def dc_model(t_outdoor):
     # %% Prepare TIMES input
     
     df_times = pd.DataFrame().assign(
+        demand=dc_df['q_it'],
         cooling=dc_df['p_cooling'] / dc_df['q_it'],
         excess_heat=dc_df['heat_at_hp_evaporator'] / dc_df['q_it'])
     
