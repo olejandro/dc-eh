@@ -167,3 +167,9 @@ dc_df = dc_df.assign(
                                      * (x['t_exhausted_air']
                                         >= t_heat_source_hp_evap))
     )
+
+# %% Prepare TIMES input
+
+times_df = pd.DataFrame().assign(
+    cooling=dc_df['p_cooling'] / dc_df['q_it'],
+    excess_heat=dc_df['heat_at_hp_evaporator'] / dc_df['q_it'])
