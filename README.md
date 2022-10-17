@@ -6,3 +6,16 @@ The original model has been used to, e.g. generate input to TIMES-DK to analyse 
 
 [Alessandro's thesis]: https://www.sys.man.dtu.dk/-/media/Centre/SYS_Systems_Analysis/Master-Theses/AColangelo_Master_Thesis_DTU.ashx?la=da&hash=626BCB6F1CAA882326E384E6EABE3647877E50CB
 [TIMES-DK DC paper]: https://doi.org/10.1016/j.energy.2020.116928
+
+## Using the model
+
+Run `main.py` to execute the model.
+
+`temperature.csv` contains an example of data input.
+
+`output.csv` contains the corresponding output.
+
+Check `dc_model.py` for other assumptions.
+
+## Model description
+
