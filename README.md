@@ -19,3 +19,9 @@ Check `dc_model.py` for other assumptions.
 
 ## Model description
 
+### Free cooling mode
+![Free cooling](figures/free-cooling.jpg)
+
+### Cooling produced by a chiller plant
+
+![cooling produced by a chiller plant](figures/chiller-plant-cooling.jpg)
