@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/286425575.svg)](https://zenodo.org/badge/latestdoi/286425575)
+
 # ThermoDynamic Model of a Hyperscale Data Centre (HDC-TDM)
 
 This is a python implementation of the thermodanamic model developed by Alessandro Colangelo for his [Master thesis][Alessandro's thesis].
