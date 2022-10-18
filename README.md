@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/286425575.svg)](https://zenodo.org/badge/latestdoi/286425575)
+[![license](https://img.shields.io/github/license/olejandro/hdc-tdm?color=ffcc00)](LICENSE)
 
 # ThermoDynamic Model of a Hyperscale Data Centre (HDC-TDM)
 
