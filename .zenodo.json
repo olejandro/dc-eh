@@ -1,0 +1,26 @@
+{
+  "creators":
+  [
+    {
+      "orcid": "0000-0002-0172-4823",
+      "affiliation": "Politecnico di Torino",
+      "name": "Colangelo, Alessandro"
+    },
+    {
+      "orcid": "0000-0002-1869-8908",
+      "affiliation": "Danish Energy Agency,",
+      "name": "Petrović, Stefan"
+    },
+		{
+      "orcid": "0000-0003-2388-7057",
+      "affiliation": "University College Cork",
+      "name": "Balyk, Olexandr"
+    }
+  ],
+  
+  "license": "Apache-2.0",
+  
+  "title": "ThermoDynamic Model of a Hyperscale Data Centre (HDC-TDM)",
+  
+  "keywords": ["thermodynamic model", "hyperscale data centre", "excess heat", "cooling", "electriciy demand"]
+}
